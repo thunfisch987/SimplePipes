@@ -37,7 +37,7 @@ def stdout(x):
 
 ## Existing Pipes (SimplePipes.utils)
 
-Alphabetical list of available pipes; when several names are listed for a given pipe, these are aliases.
+List of available pipes; when several names are listed for a given pipe, these are aliases.
 
 ```python
 | out
