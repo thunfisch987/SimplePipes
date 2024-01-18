@@ -2,7 +2,7 @@
 
 Module enabling a sh like infix syntax (using pipes).
 
-> Fork of JulienPanard/Pipe  
+> Fork of JulienPalard/Pipe  
 > Changes: from pipe import \* only imports the Pipe class / decorator  
 > helper functions available in SimplePipes.utils
 > (see: [Existing Pipes](<#existing-pipes-simplepipesutils>))
